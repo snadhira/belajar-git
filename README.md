@@ -1,4 +1,5 @@
 Belajar GIT
 ==
 
-1.
+- Satu
+- Dua
